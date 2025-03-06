@@ -1,1 +1,1 @@
-const x: string = 100;
+const x: number = 100;
